@@ -5,7 +5,7 @@ A simple introduction to Aspect Oriented Programming with AspectJ.
 AOP (aspect-oriented programming) is a programming style that can be adopted to define certain policies that in turn are used to define and manage the cross-cutting concerns in an application. In essence, it's a programming paradigm that enables your application to be adaptable to changes.
 
 ## Libs/Frameworks
--AspectJ: an aspect-oriented programming (AOP) extension created at PARC for the Java programming language. It is available in Eclipse Foundation open-source projects, both stand-alone and integrated into Eclipse. AspectJ has become a widely used de facto standard for AOP by emphasizing simplicity and usability for end users. It uses Java-like syntax, and included IDE integrations for displaying crosscutting structure since its initial public release in 2001.
+- AspectJ: an aspect-oriented programming (AOP) extension created at PARC for the Java programming language. It is available in Eclipse Foundation open-source projects, both stand-alone and integrated into Eclipse. AspectJ has become a widely used de facto standard for AOP by emphasizing simplicity and usability for end users. It uses Java-like syntax, and included IDE integrations for displaying crosscutting structure since its initial public release in 2001.
 
 ## Code Snippet
 ### Hello World 
