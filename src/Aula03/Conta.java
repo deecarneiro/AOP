@@ -66,13 +66,13 @@ public class Conta {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		
-		try {
-			c1.testException();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+//		
+//		try {
+//			c1.testException();
+//		} catch (Exception e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 		
 		
 	}
