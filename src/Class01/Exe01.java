@@ -1,4 +1,4 @@
-package Aula01;
+package Class01;
 
 public class Exe01 {
 	 public static void printHelloWorld(){
